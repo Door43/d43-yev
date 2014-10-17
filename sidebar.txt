@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yev:home|Door43 (yev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yev|d43-yev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yev/archive/master.zip|d43-yev.zip]]
+
+**Recent Changes**
+{{changes>ns = yev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yev|Ethnologue data]]
+
